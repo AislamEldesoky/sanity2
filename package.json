@@ -1,0 +1,26 @@
+{
+  "name": "sanity-diary",
+  "version": "1.0.0",
+  "description": "\"a basic diary app\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AislamEldesoky/sanity-.git"
+  },
+  "keywords": [
+    "empty"
+  ],
+  "author": "Eldesoky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AislamEldesoky/sanity-/issues"
+  },
+  "homepage": "https://github.com/AislamEldesoky/sanity-#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "hjs": "0.0.6"
+  }
+}
